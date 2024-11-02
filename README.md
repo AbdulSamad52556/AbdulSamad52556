@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2024/02/8219f-code-typing-1.gif?resize=500%2C500&ssl=1">
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 
