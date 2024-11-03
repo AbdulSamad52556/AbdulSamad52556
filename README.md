@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Inticure](inticure_home)
 
-- 🌱 I’m currently learning **Python React**
+- 🌱 I’m currently learning **Python + React**
 
 - 👯 I’m looking to collaborate on **FullStack project**
 
