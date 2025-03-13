@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working at CODECARROTS Technologies
 
-- 🌱 I’m currently learning **Python + React**
-
-- 👯 I’m looking to collaborate on **FullStack project**
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **abdulsamad52556@gmail.com**
